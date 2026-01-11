@@ -18,5 +18,5 @@ I build full-stack applications with a strong focus on backend systems, real-tim
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-kapoor-401681249/">LinkedIn</a> • 
   <a href="https://leetcode.com/u/kapooraman934/">LeetCode</a> • 
-  <a href="https://github.com/mrrobot0412/chat_hld">System Design Project</a>
+  <!-- <a href="https://github.com/mrrobot0412/chat_hld">System Design Project</a> -->
 </p>
