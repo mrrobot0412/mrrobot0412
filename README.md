@@ -15,16 +15,8 @@ I build full-stack applications with a strong focus on backend systems, real-tim
 
 ---
 
-## 🚧 Currently
-
-- 🏗️ Building a **system-design driven real-time chat application**
-- 🧠 Practicing DSA on LeetCode: https://leetcode.com/u/kapooraman934/
-
----
-
-## 📫 Links
-
-- 💼 LinkedIn: (add your LinkedIn)
-- 💻 Chat System Design Repo: https://github.com/mrrobot0412/chat_hld
-- 📧 Email: kapooraman934@gmail.com
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-kapoor-401681249/">LinkedIn</a> • 
+  <a href="https://leetcode.com/u/kapooraman934/">LeetCode</a> • 
+  <a href="https://github.com/mrrobot0412/chat_hld">System Design Project</a>
+</p>
